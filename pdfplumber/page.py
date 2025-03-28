@@ -70,6 +70,7 @@ ALL_ATTRS = set(
         "name",
         "mcid",
         "tag",
+        "instruction_index",
     ]
 )
 
